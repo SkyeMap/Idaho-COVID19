@@ -1,0 +1,9 @@
+﻿County Level Vaccination Data for Rhode Island
+Date generated: Sun Apr 11 2021 18:48:37 GMT-0700 (Pacific Daylight Time)
+County,People Fully Vaccinated - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ Fully Vaccinated - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+Bristol,15077,31.1,15056,38.2,8326,85
+Kent,49915,30.4,49858,37.3,26059,81.9
+Newport,24804,30.2,24790,36.2,13480,72.1
+Providence,153705,24.1,153547,30.2,71471,71.6
+Unknown,14287,N/A,14259,N/A,2707,N/A
+Washington,39801,31.7,39763,37.8,21912,81.3

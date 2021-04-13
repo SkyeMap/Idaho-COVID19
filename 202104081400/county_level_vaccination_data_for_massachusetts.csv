@@ -1,0 +1,19 @@
+﻿County Level Vaccination Data for Massachusetts
+Date generated: Thu Apr 08 2021 14:17:52 GMT-0700 (Pacific Daylight Time)
+
+County,People Fully Vaccinated - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ Fully Vaccinated - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+Barnstable,5062,2.4,5062,2.8,3351,5
+Berkshire,25283,20.2,25235,24.2,14120,47.2
+Bristol,103780,18.4,103574,23.1,50189,51.3
+Dukes,259,1.5,259,1.8,130,3
+Essex,184672,23.4,184236,29.6,91181,65.8
+Franklin,15627,22.3,15596,26.8,8446,52.1
+Hampden,84154,18,84015,22.9,40933,50.7
+Hampshire,33171,20.6,33109,24.1,17511,60.8
+Middlesex,346794,21.5,345975,26.7,161994,64.2
+Nantucket,45,0.4,45,0.5,32,1.9
+Norfolk,164664,23.3,164227,29.3,76197,62.5
+Plymouth,110958,21.3,110712,27,56511,58.3
+Suffolk,154130,19.2,153965,22.9,56546,57
+Unknown,196683,N/A,196462,N/A,96004,N/A
+Worcester,155040,18.7,154611,23.5,73610,54.9

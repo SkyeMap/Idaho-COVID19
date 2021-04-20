@@ -1,0 +1,19 @@
+﻿County Level Vaccination Data for Arizona
+Date generated: Tue Apr 20 2021 12:35:29 GMT-0700 (Pacific Daylight Time)
+County,People Fully Vaccinated - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ Fully Vaccinated - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+Apache,31649,44,30112,57.4,8118,71.6
+Cochise,31667,25.1,31654,32,16617,57.1
+Coconino,57684,40.2,56818,49.5,17067,91.5
+Gila,18737,34.7,18629,43,8908,56.1
+Graham,9767,25.1,9714,34.1,3855,70.9
+Greenlee,2581,27.2,2581,37.2,798,61.5
+La Paz,5112,24.2,5112,29,3429,40.9
+Maricopa,1011475,22.6,1007979,29.4,424122,60.9
+Mohave,32830,15.5,32825,18.6,23203,35.2
+Navajo,37482,33.8,36386,44.5,12646,60.7
+Pima,306363,29.3,305621,36.7,145708,68.6
+Pinal,99269,21.5,99156,27.5,53177,55.1
+Santa Cruz,16588,35.7,16574,48.6,6695,77.9
+Unknown,41542,N/A,41390,N/A,14134,N/A
+Yavapai,57105,24.3,57078,28.9,37869,49.5
+Yuma,44675,20.9,44658,27.9,20185,48.9

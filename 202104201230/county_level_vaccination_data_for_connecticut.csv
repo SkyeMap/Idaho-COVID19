@@ -1,0 +1,12 @@
+﻿County Level Vaccination Data for Connecticut
+Date generated: Tue Apr 20 2021 12:36:35 GMT-0700 (Pacific Daylight Time)
+County,People Fully Vaccinated - Resident,Percent of Total Pop Fully Vaccinated - Resident,People 18+ Fully Vaccinated - Resident,Percent of 18+ Pop Fully Vaccinated - Resident,People 65+ Fully Vaccinated - Resident,Percent of 65+ Pop Fully Vaccinated - Resident
+Fairfield,272103,28.8,271665,37,114654,74.5
+Hartford,287850,32.3,287600,40.8,121194,77.9
+Litchfield,61105,33.9,61015,41.2,28254,71.3
+Middlesex,63207,38.9,63138,47,28514,83.7
+New Haven,272822,31.9,272597,39.9,116005,76
+New London,92901,35,92832,43.3,40812,81.9
+Tolland,46181,30.6,46134,37,19865,80.8
+Unknown,18724,N/A,18681,N/A,4410,N/A
+Windham,32810,28.1,32779,35,15029,75
